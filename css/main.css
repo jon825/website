@@ -338,9 +338,8 @@ button:hover, input[type="button"]:hover, input[type="submit"]:hover {
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  background-color: white;
-  color: #f1b82d;
-  border:solid #f1b82d;
+  background-color: #f1b82d;
+  color: white;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
 }
 
@@ -905,6 +904,8 @@ body > footer .copyrights {
   -webkit-box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
   -moz-box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
   box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
+  border-color:#f1b82d;
+  color:#f1b82d;
 }
 
 .start-page-content .social-links a i {
@@ -1078,11 +1079,11 @@ body > footer .copyrights {
 
 /*Skill 1*/
 .skill-percentage.skill-1 {
-  width: 88%;
+  width: 80%;
 }
 /*Skill 2*/
 .skill-percentage.skill-2 {
-  width: 75%;
+  width: 78%;
 }
 /*Skill 3*/
 .skill-percentage.skill-3 {
@@ -1094,7 +1095,7 @@ body > footer .copyrights {
 }
 /*Skill 5*/
 .skill-percentage.skill-5 {
-  width: 75%;
+  width: 70%;
 }
 /*Skill 6*/
 .skill-percentage.skill-6 {
